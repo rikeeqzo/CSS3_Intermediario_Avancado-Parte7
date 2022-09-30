@@ -20,6 +20,12 @@ body {
     text-align: center;
     line-height: 200px;
 }
+/*
+#imagem {
+    width: 90%;
+    overflow: hidden;
+    border: 1px solid red;
+}*/
 
 #conteudo {
     width: 75%;
@@ -38,6 +44,11 @@ body {
     border: 1px solid red;
     width: 63%;
     float: left;
+}
+
+img.img-noticia {
+    width: 90%;
+    padding: 2%;
 }
 
 #conteudo-secundario {
