@@ -41,7 +41,6 @@ body {
 }
 
 #conteudo-principal {
-    border: 1px solid red;
     width: 63%;
     float: left;
 }
@@ -49,10 +48,10 @@ body {
 img.img-noticia {
     width: 94%;
     padding: 2%;
+    max-width: 600px;
 }
 
 #conteudo-secundario {
-    border: 1px solid red;
     width: 34%;
     float: right;
     background: #d1d1d1;
